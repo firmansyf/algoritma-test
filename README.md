@@ -1,6 +1,7 @@
 #### ALGORITMA TECHNICAL TEST
 
-	- Terdapat string "NEGIE1", silahkan reverse alphabet nya dengan angka tetap diakhir kata Hasil = "EIGEN1"
+- Terdapat string "NEGIE1", silahkan reverse alphabet nya dengan angka tetap diakhir kata Hasil = "EIGEN1"
+
 	```javascript
 	const isString = "NEGIE1";
 	function reverseStr(str) {
@@ -8,12 +9,12 @@
 	  const splitChar1 = str.slice(5); // 1
 	  const splitChartStr = str.slice(0, 5); // NEGIE
 	  const reverse = splitChartStr.split("").reverse().join("");
-	
+
 	  const res = (value = reverse.concat(splitChar1));
 	  return res;
 	}
 	console.log("1. ", reverseStr(isString));
-	```
+```
 
 
 - Diberikan contoh sebuah kalimat, silahkan cari kata terpanjang dari kalimat tersebut, jika ada kata dengan panjang yang sama silahkan ambil salah satu
