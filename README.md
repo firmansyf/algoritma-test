@@ -1,5 +1,4 @@
 #### ALGORITMA TECHNICAL TEST
-
 - Terdapat string "NEGIE1", silahkan reverse alphabet nya dengan angka tetap diakhir kata Hasil = "EIGEN1"
 
 	```javascript
@@ -15,7 +14,6 @@
 	}
 	console.log("1. ", reverseStr(isString));
 	```
-
 
 - Diberikan contoh sebuah kalimat, silahkan cari kata terpanjang dari kalimat tersebut, jika ada kata dengan panjang yang sama silahkan ambil salah satu
 
