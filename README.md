@@ -14,7 +14,7 @@
 	  return res;
 	}
 	console.log("1. ", reverseStr(isString));
-```
+	```
 
 
 - Diberikan contoh sebuah kalimat, silahkan cari kata terpanjang dari kalimat tersebut, jika ada kata dengan panjang yang sama silahkan ambil salah satu
